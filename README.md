@@ -1,7 +1,5 @@
 ### About Me 🙂
-    ![IMAGE](
-https://i.imgur.com/caIfWQ4.png
-)
+<image src="https://i.imgur.com/caIfWQ4.png"></image>
    Here are live status:
    
    ![havi11's github stats](
