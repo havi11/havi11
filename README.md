@@ -1,4 +1,4 @@
-<image src="https://i.imgur.com/caIfWQ4.png](https://i.imgur.com/xLdwmMU.png"></image>
+<image src="https://i.imgur.com/xLdwmMU.png"></image>
 <h1>About Me</h1>
 
 <p>Im not really active on GitHub that much but,</p>
