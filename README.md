@@ -1,4 +1,3 @@
-### About Me 🙂
 <image src="https://i.imgur.com/caIfWQ4.png"></image>
    Here are live status:
    
