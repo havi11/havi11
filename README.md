@@ -4,8 +4,8 @@
 <p>Im not active on GitHub that much, most of my repos are private.</p>
 
 <h1>Live Status</h1>   
-![havi11's github stats](https://github-readme-stats.vercel.app/api?username=havi11)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=havi11&hide=contribs,prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havi11&layout=compact&theme=merko&custom_title=My%20most%20used%20languages&hide_border=true)
 <!--
 **havi11/havi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
