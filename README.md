@@ -1,7 +1,7 @@
 <image src="https://i.imgur.com/xLdwmMU.png"></image>
 <h1>About Me</h1>
 
-<p>Im not active on GitHub that much, most of my repos are private.</p>
+<p>Most of my repositories are private.</p>
 
 <h1>Live Status</h1>   
 
